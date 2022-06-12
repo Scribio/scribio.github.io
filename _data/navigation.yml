@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Dates"
       section: services
     - title: "Places to Stay"
-      section: portfolio
+      section: about
 en-US:
   <<: *DEFAULT_EN
 en-CA:
