@@ -1,13 +1,13 @@
 ---
 title: Others
 subtitle: Different Tack
-image: assets/img/portfolio/airbnb2.png
+image: assets/img/portfolio/airbnb.jpg
 alt: 
 
 caption:
   title: Others
   subtitle: Different Tack
-  thumbnail: assets/img/portfolio/airbnb2.png
+  thumbnail: assets/img/portfolio/airbnb.jpg
 ---
 
 {:.list-inline}
