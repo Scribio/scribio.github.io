@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Dates"
+    - title: "Dates to Plan"
       section: services
     - title: "Places to Stay"
       section: about
