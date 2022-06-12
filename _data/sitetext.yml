@@ -42,7 +42,6 @@ en: &DEFAULT_EN
     section: about
 
   footer:
-    legal: "Privacy Policy"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
