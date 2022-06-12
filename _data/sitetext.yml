@@ -18,7 +18,6 @@ en: &DEFAULT_EN
 
   services:
     title: "Dates to plan around"
-    text: "Lorem ipsum"
     section: services
     list:
       - title: "Friday 18th November"
