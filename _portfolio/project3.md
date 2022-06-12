@@ -1,12 +1,12 @@
 ---
 title: Others
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Different Tack
 image: assets/img/portfolio/airbnb2.png
 alt: 
 
 caption:
   title: Others
-  subtitle: Identity
+  subtitle: Different Tack
   thumbnail: assets/img/portfolio/airbnb2.png
 ---
 
