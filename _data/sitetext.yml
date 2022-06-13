@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         desc: "Cérémonie Safran (Evening)"
         icon: fa fa-2
       - title: "Sunday 20th November"
-        desc: "The wedding (Day)"
+        desc: "The Wedding (Day)"
         icon: fa-solid fa-3
 
   portfolio:
