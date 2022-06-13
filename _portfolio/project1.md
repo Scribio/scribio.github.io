@@ -11,5 +11,5 @@ caption:
 ---
 
 {:.list-inline}
-- [Hilton Mauritius Resort & Spa (where Oli and Hanna are probably staying)](https://www.hilton.com/en/hotels/mruhihi-hilton-mauritius-resort-and-spa/)
+- [Hilton Mauritius Resort & Spa](https://www.hilton.com/en/hotels/mruhihi-hilton-mauritius-resort-and-spa/) - where Oli and Hanna are probably staying
 - [Sofitel Mauritius L'Impérial Resort & Spa](https://all.accor.com/hotel/1144/index.en.shtml)
