@@ -11,4 +11,4 @@ caption:
 ---
 
 {:.list-inline}
-- Airbnb
+- [Airbnb](https://www.airbnb.com/s/Flic-en-Flac--Mauritius/homes)

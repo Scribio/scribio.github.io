@@ -11,6 +11,6 @@ caption:
 ---
 
 {:.list-inline}
-- La Pirogue Mauritius
-- Sands Suites Resort & Spa
+- [La Pirogue Mauritius](https://www.lapirogue.com/en)
+- [Sands Suites Resort & Spa](https://www.sands.mu/en/)
 
