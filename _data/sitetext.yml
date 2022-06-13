@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Sunday 20th November"
         desc: "The wedding (Day)"
-        icon: fab fa-markdown
+        icon: fab fa-rings-wedding
 
   portfolio:
     title: "Hotels in the area"
