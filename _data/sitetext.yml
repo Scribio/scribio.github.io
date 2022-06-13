@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     list:
       - title: "Friday 18th November"
         desc: "Mahendi (Evening)"
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-trillium #find more at https://fontawesome.com/icons
       - title: "Saturday 19th November"
         desc: "Cérémonie Safran (Evening)"
         icon: fas fa-laptop
       - title: "Sunday 20th November"
         desc: "The wedding (Day)"
-        icon: fab fa-rings-wedding
+        icon: fa-solid fa-rings-wedding
 
   portfolio:
     title: "Hotels in the area"
