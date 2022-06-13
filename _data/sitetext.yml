@@ -22,18 +22,18 @@ en: &DEFAULT_EN
     list:
       - title: "Friday 18th November"
         desc: "Mahendi (Evening)"
-        icon: fa-solid fa-trillium #find more at https://fontawesome.com/icons
+        icon: fa-1 #find more at https://fontawesome.com/icons
       - title: "Saturday 19th November"
         desc: "Cérémonie Safran (Evening)"
-        icon: fas fa-laptop
+        icon: fa fa-2
       - title: "Sunday 20th November"
         desc: "The wedding (Day)"
-        icon: fa-solid fa-rings-wedding
+        icon: fa-solid fa-3
 
   portfolio:
     title: "Hotels in the area"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Back"
 
   about:
     title: "Places to Stay"
