@@ -1,12 +1,12 @@
 ---
 title: Others
-subtitle: Different Tack
+subtitle: Different tack
 image: assets/img/portfolio/airbnb.jpg
 alt: 
 
 caption:
   title: Others
-  subtitle: Different Tack
+  subtitle: Different tack
   thumbnail: assets/img/portfolio/airbnb.jpg
 ---
 
