@@ -11,12 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Dates to Plan"
-      section: services
-    - title: "Places to Stay"
-      section: about
-    - title: "Contact Us"
-      url: mailto:rsvp@olig.org?subject=Let's%20talk%20about%20your%20Wedding%20in%20Mauritius!
+   
 en-US:
   <<: *DEFAULT_EN
 en-CA:
