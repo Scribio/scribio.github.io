@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: We're getting married!
-    text: Mauritius
-    button: Tell Me More
+    title: Consultancy!
+    text: Scribio OU
+    button: A satisfying button to press
     buttonlink: "#services"
 
   services:
